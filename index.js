@@ -55,7 +55,9 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://localhost:5173",
-     "https://deployment-frontend-ten.vercel.app"
+     "https://deployment-frontend-ten.vercel.app",
+     "https://deployment-frontend-git-main-furqans-projects-7d95584d.vercel.app",
+     "https://deployment-frontend-9bjktkwt6-furqans-projects-7d95584d.vercel.app"
     ],
     //  methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
     // allowedHeaders: ["Content-Type", "Authorization", "X-Requested-With"],
